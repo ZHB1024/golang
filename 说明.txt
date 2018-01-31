@@ -1,0 +1,41 @@
+
+安装git
+go run test.go
+
+安装教程
+http://blog.csdn.net/kenkao/article/details/49488833
+
+设置环境变量
+GOROOT
+GOPATH
+
+查看doc设置
+doc窗口输入 ：godoc -http=:8080
+浏览器输入：http://localhost:8080/doc/
+
+gocode(用于代码补全)
+https://github.com/nsf/gocode
+
+
+go web
+
+sqlite3
+
+https://gowalker.org
+
+QBS
+https://github.com/coocood/qbs/blob/master/README_ZH.md
+
+beego
+安装 go get github.com/astaxie/beego
+https://github.com/astaxie/beego
+https://beego.me/docs/intro/
+
+
+bootstrap
+http://www.bootcss.com/
+https://github.com/twbs/bootstrap
+
+
+
+
